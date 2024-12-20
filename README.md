@@ -160,8 +160,6 @@ I am a data scientist from Indonesia with experience in processing and analyzing
 ----
 	
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=yokilabs&no-bg=true" alt="yokilabs" /></a> </p>
-
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
 
